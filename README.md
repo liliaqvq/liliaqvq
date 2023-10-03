@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-C, HTML, CSS, JS
----
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/letter-c_3665899?term=c+language&related_id=3665899" height="100" /></a>
+- Skills:
 
----
+![image](https://github.com/liliaqvq/liliaqvq/assets/130264861/c4ccfee6-dfd6-4d2d-8c5b-44c18932a6a6)
+![image](https://github.com/liliaqvq/liliaqvq/assets/130264861/1a298578-1650-43bc-8272-e15b36dce00a)
+![image](https://github.com/liliaqvq/liliaqvq/assets/130264861/856e61d6-6b1e-4025-90e0-cb138aae644e)
+![image](https://github.com/liliaqvq/liliaqvq/assets/130264861/496ee210-3f7f-445b-a63d-2f22e7e06b03)
+
 
 
 - what happens if someone call me on the phone -> https://www.youtube.com/watch?v=jLVh7X8wmqw 📱
