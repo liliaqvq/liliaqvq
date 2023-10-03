@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm Lili and I'm an Engineer learning to code.
+
 - Skills:
 
 <img src="https://github.com/liliaqvq/liliaqvq/assets/130264861/c4ccfee6-dfd6-4d2d-8c5b-44c18932a6a6" width="30">
