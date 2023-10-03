@@ -3,8 +3,10 @@
 C, HTML, CSS, JS
 
 
-what happens if someone call me on the phone -> https://www.youtube.com/watch?v=jLVh7X8wmqw
-favorite song of the moment -> https://www.youtube.com/watch?v=L1FdEBTJXus
+- what happens if someone call me on the phone -> https://www.youtube.com/watch?v=jLVh7X8wmqw 📱
+- favorite song of the moment -> https://www.youtube.com/watch?v=L1FdEBTJXus 🎶
+- How to reach me -> lili.aqueveque@gmail.com 📧
+- I'm currently learning in 4Geeks Academy 🤓
 
 <!--
 **liliaqvq/liliaqvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
