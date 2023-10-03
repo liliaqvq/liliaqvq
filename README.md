@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-HTML, CSS, JS
+C, HTML, CSS, JS
 
 <!--
 **liliaqvq/liliaqvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
