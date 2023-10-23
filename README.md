@@ -8,9 +8,9 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-%23cda043?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23ad5149?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-%23ac5d8b?style=flat-square&logo=react&logoColor=white" />
-  <img alt="more" src="https://img.shields.io/badge/-more-%237b9fc7?style=flat-square&logo=react&logoColor=white" />
-  <img alt="coming" src="https://img.shields.io/badge/-coming-%2383a8cf?style=flat-square&logo=react&logoColor=white" />
-  <img alt="soon" src="https://img.shields.io/badge/-soon...-%23776aa1?style=flat-square&logo=react&logoColor=white" />
+  <img alt="more" src="https://img.shields.io/badge/-more-%236a7aad?style=flat-square" />
+  <img alt="coming" src="https://img.shields.io/badge/-coming-%2383a8cf?style=flat-square" />
+  <img alt="soon" src="https://img.shields.io/badge/-soon...-%23776aa1?style=flat-square" />
 </p>
 
 
