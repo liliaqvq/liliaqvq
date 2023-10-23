@@ -4,10 +4,10 @@
 <p>Welcome to my page! </br> I'm Lili, Fullstack developer Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile</b>, and I'm an Engineer learning to code in <b>4Geeks Academy 🤓</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23b3535e?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/CSS-orange?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-critical?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS-%23cda043?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23ad5149?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-%23ac5d8b?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 
