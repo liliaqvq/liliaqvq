@@ -11,7 +11,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-%237f6aad?style=flat-square&logo=python&logoColor=white" />
   <img alt="more" src="https://img.shields.io/badge/-more-%236a7aad?style=flat-square" />
   <img alt="coming" src="https://img.shields.io/badge/-coming-%2383a8cf?style=flat-square" />
-  <img alt="soon" src="https://img.shields.io/badge/-soon...-%23776aa1?style=flat-square" />
+  <img alt="soon" src="https://img.shields.io/badge/-soon...-%2392DDC8?style=flat-square" />
 </p>
 
 
