@@ -9,8 +9,8 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23ad5149?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-%23ac5d8b?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-%237f6aad?style=flat-square&logo=python&logoColor=white" />
-  <img alt="more" src="https://img.shields.io/badge/-more-%236a7aad?style=flat-square" />
-  <img alt="coming" src="https://img.shields.io/badge/-coming-%2383a8cf?style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%236a7aad?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-%2383a8cf?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="soon" src="https://img.shields.io/badge/-soon...-%2392DDC8?style=flat-square" />
 </p>
 
