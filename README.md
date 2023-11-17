@@ -11,7 +11,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-%237f6aad?style=flat-square&logo=python&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%236a7aad?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-%2383a8cf?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="soon" src="https://img.shields.io/badge/-soon...-%2392DDC8?style=flat-square" />
+  <img alt="soon" src="https://img.shields.io/badge/-more coming soon...-%2392DDC8?style=flat-square" />
 </p>
 
 
