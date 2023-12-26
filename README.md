@@ -1,4 +1,4 @@
-<h1> Hey! Nice to see you. <img src='https://veekun.com/dex/media/pokemon/global-link/198.png' height=50px/></h1> 
+<h1> Hey! Nice to see you. <img src='https://veekun.com/dex/media/pokemon/global-link/154.png' height=50px/></h1> 
 
 
 <p>Welcome to my page! </br> I'm Lili, Fullstack developer and Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile</b>, and I'm learning to code in <b>4Geeks Academy 🤓</b>. </p>
