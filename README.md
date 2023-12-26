@@ -22,7 +22,7 @@ href="https://scratch.mit.edu/projects/833371158/" target="_blank"><img alt="Scr
 
 
 <h3>Some of my projects</h3>
-<p><a href="https://proyecto-open-tech-ft22-qdvuqmg1w-lilianas-projects-7409d0ca.vercel.app/">Open Salary Full Stack Website</p>
+<p><a href="https://proyecto-open-tech-ft22.vercel.app/">Open Salary Full Stack Website</p>
 <p><a href="https://lili-aqvq-analog-wall-clock-f6go-ijhl3jvfh.vercel.app/">Analog Wall Clock</p>
 <p><a href="https://lili-aqvq-starwars-blog.vercel.app/">Star Wars Blog</p>
 
