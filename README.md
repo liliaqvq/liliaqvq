@@ -1,7 +1,7 @@
 <h1> Hey! Nice to see you. <img src='https://veekun.com/dex/media/pokemon/global-link/154.png' height=60px/></h1> 
 
 
-<p>Welcome to my page! </br> I'm Lili, Fullstack developer and Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile</b>, and I'm learning to code in <b>4Geeks Academy 🤓</b>. </p>
+<p>Welcome to my page! </br> I'm Lili, Fullstack developer and Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile</b>, and I'm learning something new <b>everyday 🤓</b>. </p>
 <h3>Things I code with:</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23b3535e?style=flat-square&logo=html5&logoColor=white" />
