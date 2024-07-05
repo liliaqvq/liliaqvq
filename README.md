@@ -26,6 +26,7 @@ href="https://scratch.mit.edu/projects/833371158/" target="_blank"><img alt="Scr
 <p><a href="https://github.com/liliaqvq/weather-app">Weather App</p>
 <p><a href="https://lili-aqvq-analog-wall-clock-f6go-ijhl3jvfh.vercel.app/">Analog Wall Clock</p>
 <p><a href="https://lili-aqvq-starwars-blog.vercel.app/">Star Wars Blog</p>
+<p><a href="https://pikachu-pixel-art-css-lili.vercel.app/">Pikachu Pixel Art</p>
 
 
 <h3>Currently working on:</h3>
